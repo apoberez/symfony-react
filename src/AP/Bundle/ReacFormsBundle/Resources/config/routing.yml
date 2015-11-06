@@ -1,0 +1,4 @@
+ap_reac_forms_homepage:
+    resource: @APReacFormsBundle/Controller/DefaultController.php
+    type: annotation
+    prefix: /rf
